@@ -1,11 +1,7 @@
-# Acoustic Keyboard Side-Channel Attack in a Real MAX Call
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CNN-orange)
 ![Status](https://img.shields.io/badge/status-educational%20research-success)
 ![Domain](https://img.shields.io/badge/domain-cybersecurity-critical)
-
-Кратко оформленный GitHub-репозиторий учебного проекта по информационной безопасности.
 
 ## Идея проекта
 Проект показывает, что звук механической клавиатуры может выступать побочным каналом утечки данных даже в реальном онлайн-звонке. В качестве proof-of-concept используется собственный датасет, собранный во время одного звонка MAX, и модель **KeystrokeNet**, классифицирующая нажатия клавиш по mel-спектрограммам.
