@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / data
+*.pth
+*.pt
+*.ckpt
+*.wav
+*.m4a
+*.mp3
+*.webm
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

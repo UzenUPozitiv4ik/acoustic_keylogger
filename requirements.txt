@@ -1,0 +1,10 @@
+numpy
+librosa
+noisereduce
+torch
+matplotlib
+scikit-learn
+scipy
+seaborn
+jupyter
+notebook
